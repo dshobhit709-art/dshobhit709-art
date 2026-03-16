@@ -18,7 +18,7 @@
 
 ## 📊 Research Summary
 
-AI/ML Engineer with **nearly 5 years** of production experience architecting and deploying **scalable machine learning** and **generative AI solutions** across **financial services** and **healthcare analytics** domains. Specialized in building **enterprise-grade ML pipelines**, **real-time inference systems**, and **LLM-powered applications** using PyTorch, TensorFlow, and AWS infrastructure.
+AI/ML Engineer with **nearly 4 years** of production experience architecting and deploying **scalable machine learning** and **generative AI solutions** across **financial services** and **healthcare analytics** domains. Specialized in building **enterprise-grade ML pipelines**, **real-time inference systems**, and **LLM-powered applications** using PyTorch, TensorFlow, and AWS infrastructure.
 
 **Key Research Contributions:**
 - Improved fraud detection accuracy by **32%** using transformer-based architectures on high-volume financial transaction streams
