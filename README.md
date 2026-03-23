@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer | Production ML Systems | Generative AI Architect
 
-[![Email](https://img.shields.io/badge/Email-iamshobhit98%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dshobhit709@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dshobhit709%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dshobhit709@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20(215)%20971--5579-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+12159715579)
 [![Location](https://img.shields.io/badge/Location-PA%2C%20USA-0077B5?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps?q=Pennsylvania,USA)
 
