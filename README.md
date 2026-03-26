@@ -86,12 +86,12 @@ graph LR
 timeline
     title Professional Journey
     section Financial Services
-    Nov 2025 : AI ML Engineer
+    Sep 2025 : AI ML Engineer
              : Capital One Financial
              : Transformer fraud detection
              : RAG compliance systems
     section Healthcare Analytics
-    Aug 2020 : AI ML Engineer
+    Aug 2021 : AI ML Engineer
              : CitiusTech
              : Medical imaging CNNs
              : Clinical NLP pipelines
