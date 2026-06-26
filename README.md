@@ -183,14 +183,14 @@ pie title Technical Expertise Areas
 
 ## 🏆 Key Achievements
 
-### 🎯 Financial Services Impact (Capital One)
+### 🎯 Financial Services Impact 
 - **32% accuracy improvement** in fraud detection using transformer-based models on large-scale transaction streams
 - **45% latency reduction** in real-time inference services (sub-400ms predictions) via FastAPI/Kafka architecture
 - **14 days → 3 days** model deployment cycle reduction through MLflow/Airflow/Docker automation
 - Implemented **RAG pipelines** for contextual search across financial policies using LangChain + FAISS
 - Deployed **explainable AI frameworks** (SHAP, LIME) for regulatory compliance in credit risk models
 
-### 🏥 Healthcare Analytics Impact (CitiusTech)
+### 🏥 Healthcare Analytics Impact
 - **95% classification accuracy** on medical imaging diagnostics using CNN transfer learning (TensorFlow)
 - **92% accuracy** in clinical text classification from EHRs using Hugging Face Transformers
 - **55% ETL processing time reduction** on 30TB+ healthcare datasets via PySpark/Spark/Snowflake
