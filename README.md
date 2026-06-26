@@ -80,29 +80,6 @@ graph LR
 
 ---
 
-## 💼 Career Timeline
-
-```mermaid
-timeline
-    title Professional Journey
-    section Financial Services
-    Sep 2025 : AI ML Engineer
-             : Capital One Financial
-             : Transformer fraud detection
-             : RAG compliance systems
-    section Healthcare Analytics
-    Aug 2021 : AI ML Engineer
-             : CitiusTech
-             : Medical imaging CNNs
-             : Clinical NLP pipelines
-             : 30TB healthcare ETL
-    section Education
-    Mar 2026 : MS AI ML
-             : Drexel University
-    Jul 2021 : BTech IT
-             : KIET Ghaziabad
-```
-
 ---
 
 ## 🛠️ Technical Stack
